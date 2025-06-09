@@ -6,6 +6,10 @@
 
 ### Team: B02-3B
 
+- [hyuan](https://github.com/hykzr/)
+- [gumingyoujia](https://github.com/gumingyoujia/)
+- [isaacchiale](https://github.com/isaacchiale/)
+
 ## Section 1 Introduction
 
 Recently, an explosion has occurred in Moonbase CEG. Several astronauts were injured during the accident and require immediate rescue. Remote search-and-rescue operations are essential in such situations, where disaster happens in a location that is out of reach or dangerous to enter. Our robot ALEX is designed and constructed to tackle such situations.
