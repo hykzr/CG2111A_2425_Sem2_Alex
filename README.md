@@ -9,6 +9,7 @@
 - [hyuan](https://github.com/hykzr/)
 - [gumingyoujia](https://github.com/gumingyoujia/)
 - [isaacchiale](https://github.com/isaacchiale/)
+- [howieyeo](https://github.com/HowieYHY)
 
 ## Section 1 Introduction
 
